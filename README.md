@@ -1,2 +1,2 @@
-# LeetCode-Arrays
-This Repository contains Leetcode Array problem's solution in C#
+# LeetCode-Arrays&Strings
+This Repository contains Leetcode Array and Strings problem's solution in C#
