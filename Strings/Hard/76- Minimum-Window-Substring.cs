@@ -1,3 +1,5 @@
+//Time Complexity O(M+N)
+//Space Complexity O(N)
 public class Solution {
     public string MinWindow(string s, string t) {
         if(string.IsNullOrEmpty(s) || string.IsNullOrEmpty(t)){
